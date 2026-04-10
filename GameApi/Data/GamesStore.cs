@@ -1,5 +1,5 @@
 using GameApi.Models;
-namespace GamesApi.Data;
+namespace GameApi.Data;
 
 public static class GamesStore {
     private static int _nextId = 4;

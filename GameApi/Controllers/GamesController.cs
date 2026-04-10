@@ -1,8 +1,8 @@
 using GameApi.Models;
-using GamesApi.Data;
+using GameApi.Data;
 using Microsoft.AspNetCore.Mvc;
 
-namespace GamesApi.Controllers;
+namespace GameApi.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
